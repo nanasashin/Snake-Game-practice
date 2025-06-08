@@ -1,1 +1,1 @@
-A practice game making using the library PyGame
+A practice game using the library PyGame
